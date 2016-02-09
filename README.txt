@@ -12,7 +12,7 @@ brailleblaster.jar
 file will be placed in the dist directory. Note that you must compile 
 the software listed in BUILD.txt as going into the native subdirectory 
 to complete the build.
-You must alsol place the jar files listed in BUILD.txt in the dist/lib 
+You must also place the jar files listed in BUILD.txt in the dist/lib 
 subdirectory. Building from the repository is recommended. Note, 
 however, that the repository does not contain any  binary files. Once 
 you have provided these you can simply pull the latest changes from the 
